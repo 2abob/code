@@ -42,19 +42,26 @@ MIIEPjCCAiagAwIBAgIBBTANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4X
 F8-16-54-C6-84-DC
 
 tiavinaranto@aol.com
-web site												username															password
+web site																				username															password
 ____________________________________________________________________________________________________
-AOL													tiavinaranto@aol.com 										#@!&<Ge':
-facebook												tiavinaranto@aol.com										Z0Zl5rqs
-etude en france									tiavinaranto@aol.com										&*^5%$ASDug
-ets 														falcon2																#$5%6qwdGUY
-github 													2abob																	IUY89tsr$%#
-gitlab 													2abob																	IUS78*&^%$
-elephantsql.com									tiavinaranto@aol.com										&^%34UYTsg	
-mlab 													2abob																	{^&*56UYTsg	
-awardspace										client ID : 3738419												2@AdLer?!1
-JasperSoft											username : 														jdfIW#21
-microsoft																															UCnfh34-
+AOL																					tiavinaranto@aol.com 										#@!&<Ge':
+facebook												t								iavinaranto@aol.com											Z0Zl5rqs
+etude en france																	tiavinaranto@aol.com										&*^5%$ASDug
+ets 																						falcon2																#$5%6qwdGUY
+github 																					2abob																	IUY89tsr$%#
+gitlab 																					2abob																	IUS78*&^%$
+elephantsql.com																	tiavinaranto@aol.com										&^%34UYTsg	
+mlab 																					2abob																	{^&*56UYTsg	
+awardspace																		client ID : 3738419												2@AdLer?!1
+JasperSoft																			username : 														jdfIW#21
+microsoft																																							UCnfh34-
+openvpn cloud & access server										adller																	U?hN75ps
+digital ocean																		full name : ranto													UY56^lsd
+https://192.168.88.20:943/admin										openvpn																fEafIcVbhbIA
+https://192.168.88.20:943/
+user openvpn																		ranto																	JUy54uYo
+kamatera																																						Jughn?.34
+invizbox																				ranto																	MwLjs75
 
 
 
