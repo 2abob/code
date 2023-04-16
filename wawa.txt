@@ -1,4 +1,4 @@
-code CARTE VISA MVOLA 0303
+code CARTE VISA MVOLA 0303 #111*1*6*9#
 
 Gitlab
 K71U8DBPNE-
@@ -85,7 +85,7 @@ http://192.168.88.1/ : login : WifiByTelma - password : C6140CBE8916 mdp : OAUul
 bzfxh87806
 
 visa akory
-4227 4801 0039 0155 12/24 CVV 538
+4227 4801 0039 0155 12/24 CVV 875
 
 lala.honore@gmail.com
 web site												username															password
