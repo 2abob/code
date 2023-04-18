@@ -85,7 +85,7 @@ http://192.168.88.1/ : login : WifiByTelma - password : C6140CBE8916 mdp : OAUul
 bzfxh87806
 
 visa akory
-4227 4801 0039 0155 12/24 CVV 875
+4227 4801 0039 0155 12/24 CVV 689
 
 lala.honore@gmail.com
 web site												username															password
@@ -102,6 +102,9 @@ thia_crt
 db4free             nom_base : eanatra      user : eanatra      mdp : Uhdf4324
 
 b7645881@gmail.com          usji8293
+badoo                       jdhe1834
+mingle2                     nowj0385
+meetic                      phiW9847
 
 rasolofoniainaranto@gmail.com
 !@#12AdL'er?> itu-labs
